@@ -32,11 +32,14 @@
 ### 宿題
 
 1 Slackを使えるようになる
+
 Slackのワークスペース名: intellitech-kmu.slack.com
+
 	スラックとは
+	
 	[「なぜSlackを導入するのか、メールとは何が違うのか、他の選択肢はないのか」](https://qiita.com/will_meaning/items/21a88ec0b61435e8652f)
 
 ​	[「Slackとは何？Lineとの違いを比較したらすぐわかる件」]( https://businesschatmaster.com/slack/slack-line-chigai)
 ​       
 
-2**[「かくかくしかじか」](https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%8F%E3%81%8B%E3%81%8F%E3%81%97%E3%81%8B%E3%81%98%E3%81%8B)**を読む
+2 [「かくかくしかじか」](https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%8F%E3%81%8B%E3%81%8F%E3%81%97%E3%81%8B%E3%81%98%E3%81%8B)を読む
